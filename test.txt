@@ -3,4 +3,4 @@ git add
 git commmit
 テスト文章挿入
 first.txt
-
+git diff
