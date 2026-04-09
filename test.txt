@@ -2,3 +2,5 @@ gitについて色々学んでいきます
 git add
 git commmit
 テスト文章挿入
+first.txt
+
